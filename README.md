@@ -66,3 +66,6 @@ Developed by:VASANTHI SIVASANKAR RegisterNumber: 212223040234
 
 
 **Result:**
+Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+
+
